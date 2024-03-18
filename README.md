@@ -1,86 +1,51 @@
-<!--
-<h1 align="center">Hi 👋, I'm Mohommad Shabeer</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=moshdev2213&label=Profile%20views&color=0e75b6&style=flat" alt="moshdev2213" /> </p>
--->
-<img width="50" align="left" src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" alt="moshdev2213" />
+## Hi there! 👋 I'm Chethiya Nanayakkara
 
-<!--
-<p align="left"> <img src="https://media.giphy.com/media/W8AYJPPzRiP6w/giphy.gif" alt="moshdev2213" /> </p>
--->
+I'm an Information Technology Undergraduate at Sri Lanka Institute of Information Technology (SLIIT). I'm a dedicated and passionate individual with a keen interest in web and mobile development. I thrive on creating immersive and user-friendly digital experiences that push the boundaries of innovation. My journey in the world of technology has been shaped by my enthusiasm for building impactful applications that make a difference.
 
-<img width="150"  align="right" src="https://komarev.com/ghpvc/?username=moshdev2213&label=Profile%20views&color=0e75b6&style=flat" alt="moshdev2213" /> 
-<!--<img align="right" height="200" width="400" style="margin-top: 300px" src="https://github-readme-stats.vercel.app/api?username=moshdev2213&show_icons=true&count_private=true&theme=algolia"/>(https://github.com/AmitHasanShuvo/)
--->
-<br/>
-<br/>
+## Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
+## Web Technologies
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Xamarin Forms](https://img.shields.io/badge/Xamarin_Forms-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+## Libraries
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+## Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<!--<img align = "left" alt="coding" width="200" src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif">-->
+## Tools
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![ezgif com-crop (2)](https://github.com/moshdev2213/moshdev2213/assets/103739510/ba91ae1e-c005-4048-8d2e-9a4480fb3114)
-
-<div align="center">  
-<kbd><a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a></kbd>
-&nbsp;
-<kbd><a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" /></a></kbd>  
-&nbsp;
-  <br><br>
-<kbd><a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /></a></kbd>  
-&nbsp;
-  <br><br>
-<kbd><a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a></kbd>  
-&nbsp;
-<kbd><a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" /></a>  </kbd>
-&nbsp;
-<kbd><a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a></kbd>
-&nbsp;
-<kbd><a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a></kbd>
-&nbsp;
-<kbd><a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" /></a>  </kbd>
-</div>  
-
-<br/>
-<br/>
-
-<p align="">
-   <a href="#"><img align="left" alt="Shabeer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=moshdev2213&show_icons=true&count_private=true&theme=algolia&hide_border=true" /></a>
-  <a href="#"><img align="right" alt="Shabeer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshdev2213&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true" /></a>
-<!-- <a href="#"><img align="right" height="200 alt="Shabeer's Top Languages" src="https://media.giphy.com/media/sCbpbwEz3ObZq6zdmM/giphy.gif" /></a>-->
-</p>
+## GitHub Stats
+![GitHub stats](https://img.shields.io/badge/GitHub-Stats-green?style=for-the-badge&logo=github)
+![Chethiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chethiyananayakkara&show_icons=true&theme=radical)
