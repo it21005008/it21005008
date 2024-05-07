@@ -2,6 +2,9 @@
 
 I'm an Information Technology Undergraduate at Sri Lanka Institute of Information Technology (SLIIT). I'm a dedicated and passionate individual with a keen interest in web and mobile development. I thrive on creating immersive and user-friendly digital experiences that push the boundaries of innovation. My journey in the world of technology has been shaped by my enthusiasm for building impactful applications that make a difference.
 
+<img align="center" alt="Github Avatar" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
+
+
 ## Programming Languages
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
