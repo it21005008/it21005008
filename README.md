@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Chethiya Nanayakkara
 
-I'm an Information Technology Undergraduate at Sri Lanka Institute of Information Technology (SLIIT). I'm a dedicated and passionate individual with a keen interest in web and mobile development. I thrive on creating immersive and user-friendly digital experiences that push the boundaries of innovation. My journey in the world of technology has been shaped by my enthusiasm for building impactful applications that make a difference.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Crafting+code+with+the+strokes+;with+the+strokes+of;CREATIVITY" alt="Typing SVG" /></a>
 
 <img align="center" alt="Github Avatar" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
