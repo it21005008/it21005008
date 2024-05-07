@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Chethiya Nanayakkara
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Crafting+code+with+the+strokes+;with+the+strokes+of;CREATIVITY" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Crafting+code+with+the+strokes+of+;Creativity." alt="Typing SVG" /></a>
 
 <img align="RIGHT" alt="Github Avatar" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
